@@ -4,7 +4,6 @@ const songList = [
         title: "Será - Las Pelotas",
         file: "sera-laspelotas.mp3",
         cover: "sera-laspelotas.jpeg"
-
     },
     {
         title: "Personalmente - Las Pelotas",
@@ -21,6 +20,7 @@ const songList = [
         file: "alvacio-ntvg.mp3",
         cover: "alvacio-ntvg.jpeg"
     },
+    
 ]
 
 // Canción actual

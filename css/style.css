@@ -18,7 +18,7 @@ body {
 
 /* Player */
 .player {
-    min-width: 320px;
+    width: 420px;
     background-image: linear-gradient(rgb(75, 67, 198), black);
     border-radius: 1rem;
     padding: 2rem;
