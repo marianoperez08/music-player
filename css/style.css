@@ -13,14 +13,14 @@ body {
     background-color: black;
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: flex-start;
 }
 
 /* Player */
 .player {
+    height: 100%;
     width: 420px;
     background-image: linear-gradient(rgb(75, 67, 198), black);
-    border-radius: 1rem;
     padding: 2rem;
     color: white;
     box-shadow: 2px 2px 3px black;
